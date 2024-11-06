@@ -47,9 +47,9 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav8541&show_icons=true&locale=en&layout=compact" alt="manav8541" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavjha20&show_icons=true&locale=en&layout=compact" alt="manavjha20" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manav8541&show_icons=true&locale=en" alt="manav8541" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manavjha20&show_icons=true&locale=en" alt="manavjha20" />
 </p>
