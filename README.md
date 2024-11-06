@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=manav8541&label=Profile%20views&color=0e75b6&style=flat" alt="manav8541" />
+  <img src="https://komarev.com/ghpvc/?username=manav8541&label=Profile%20views&color=0e75b6&style=flat" alt="manavjha20" />
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manav8541" alt="manav8541" />
+    <img src="https://github-profile-trophy.vercel.app/?username=manavjha20" alt="manavjha20" />
   </a> 
 </p>
 
@@ -16,9 +16,8 @@
 ---
 
 ### 📚 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/manav-kumar-jha/)
-- [Twitter](https://twitter.com/manav_79)
-- Email: _manav__79@example.com_ (Add if you'd like to provide an email)
+- [LinkedIn](https://www.linkedin.com/in/manav79/)
+- Email: meekermanav@gmail.com
 
 ---
 
